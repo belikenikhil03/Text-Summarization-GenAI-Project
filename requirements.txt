@@ -10,3 +10,6 @@ python-dotenv
 mysql
 transformers
 pypdf
+validators==0.28.1
+youtube_transcript-api
+unstructured
